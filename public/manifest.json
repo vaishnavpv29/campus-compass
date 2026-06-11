@@ -1,0 +1,17 @@
+{
+  "name": "Campus Compass — Find Your Perfect College in India",
+  "short_name": "Campus Compass",
+  "description": "Compare colleges, read verified reviews, take the College Match Quiz, and book 1-on-1 sessions with current students and alumni.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#1E3A8A",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    }
+  ]
+}
